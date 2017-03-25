@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>lembrar-se</infinitive>
+	<definition>to remember</definition>
+	<comments>reflexive verb</comments>
+	<participles>
+		<present>lembrando-se</present>
+		<past>se lembrado</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>lembro-me</FPS>
+		<SPS>lembras-te</SPS>
+		<TPS>lembra-se</TPS>
+		<FPP>lembramo-nos</FPP>
+		<SPP>lembrais-vos</SPP>
+		<TPP>lembram-se</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>lembrei-me</FPS>
+		<SPS>lembraste-te</SPS>
+		<TPS>lembrou-se</TPS>
+		<FPP>lembrámo-nos</FPP>
+		<SPP>lembrastes-vos</SPP>
+		<TPP>lembraram-se</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>lembrar-me-ei</FPS>
+		<SPS>lembrar-te-ás</SPS>
+		<TPS>lembrar-se-á</TPS>
+		<FPP>lembrar-nos-emos</FPP>
+		<SPP>lembrar-vos-eis</SPP>
+		<TPP>lembrar-se-ão</TPP>
+	</conjugation>
+</verb>

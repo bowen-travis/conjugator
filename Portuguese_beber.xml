@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>beber</infinitive>
+	<definition>to drink</definition>
+	<comments>regular "-er" verb</comments>
+	<participles>
+		<present>bebendo</present>
+		<past>bebido</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>bebo</FPS>
+		<SPS>bebes</SPS>
+		<TPS>bebe</TPS>
+		<FPP>bebemos</FPP>
+		<SPP>bebeis</SPP>
+		<TPP>bebem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>bebi</FPS>
+		<SPS>bebeste</SPS>
+		<TPS>bebeu</TPS>
+		<FPP>bebemos</FPP>
+		<SPP>bebestes</SPP>
+		<TPP>beberam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>beberei</FPS>
+		<SPS>beberás</SPS>
+		<TPS>beberá</TPS>
+		<FPP>beberemos</FPP>
+		<SPP>bebereis</SPP>
+		<TPP>beberão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>bebia</FPS>
+		<SPS>bebias</SPS>
+		<TPS>bebia</TPS>
+		<FPP>bebíamos</FPP>
+		<SPP>bebíeis</SPP>
+		<TPP>bebiam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Present Subjunctive">Present_Subjunctive</mood>
+		<FPS>beba</FPS>
+		<SPS>bebas</SPS>
+		<TPS>beba</TPS>
+		<FPP>bebamos</FPP>
+		<SPP>bebais</SPP>
+		<TPP>bebam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Subjunctive">Imperfect_Subjunctive</mood>
+		<FPS>bebesse</FPS>
+		<SPS>bebesses</SPS>
+		<TPS>bebesse</TPS>
+		<FPP>bebêssemos</FPP>
+		<SPP>bebêsseis</SPP>
+		<TPP>bebessem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Subjunctive">Future_Subjunctive</mood>
+		<FPS>beber</FPS>
+		<SPS>beberes</SPS>
+		<TPS>beber</TPS>
+		<FPP>bebermos</FPP>
+		<SPP>beberdes</SPP>
+		<TPP>beberem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Simple Conditional">Simple_Conditional</mood>
+		<FPS>beberia</FPS>
+		<SPS>beberias</SPS>
+		<TPS>beberia</TPS>
+		<FPP>beberíamos</FPP>
+		<SPP>beberíeis</SPP>
+		<TPP>beberiam</TPP>
+	</conjugation>
+	<imperative>
+		<mood text="Imperative">Imperative</mood>
+		<SPS>bebe</SPS>
+		<SPP>bebei</SPP>
+  </imperative>
+</verb>
+

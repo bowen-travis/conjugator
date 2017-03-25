@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>ter</infinitive>
+	<definition>to have</definition>
+	<comments>irregular verb</comments>
+	<participles>
+		<present>tendo</present>
+		<past>tido</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>tenho</FPS>
+		<SPS>tens</SPS>
+		<TPS>tem</TPS>
+		<FPP>temos</FPP>
+		<SPP>tendes</SPP>
+		<TPP>têm</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>tive</FPS>
+		<SPS>tiveste</SPS>
+		<TPS>teve</TPS>
+		<FPP>tivemos</FPP>
+		<SPP>tivestes</SPP>
+		<TPP>tiveram</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>terei</FPS>
+		<SPS>terás</SPS>
+		<TPS>terá</TPS>
+		<FPP>teremos</FPP>
+		<SPP>tereis</SPP>
+		<TPP>terão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>tinha</FPS>
+		<SPS>tinhas</SPS>
+		<TPS>tinha</TPS>
+		<FPP>tínhamos</FPP>
+		<SPP>tínheis</SPP>
+		<TPP>tinham</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Present Subjunctive">Present_Subjunctive</mood>
+		<FPS>tenha</FPS>
+		<SPS>tenhas</SPS>
+		<TPS>tenha</TPS>
+		<FPP>tenhamos</FPP>
+		<SPP>tenhais</SPP>
+		<TPP>tenham</TPP>
+	</conjugation>
+</verb>

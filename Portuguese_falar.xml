@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>falar</infinitive>
+	<definition>to speak</definition>
+	<comments>regular "-ar" verb</comments>
+	<participles>
+		<present>falando</present>
+		<past>falado</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>falo</FPS>
+		<SPS>falas</SPS>
+		<TPS>fala</TPS>
+		<FPP>falamos</FPP>
+		<SPP>falais</SPP>
+		<TPP>falam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>falei</FPS>
+		<SPS>falaste</SPS>
+		<TPS>falou</TPS>
+		<FPP>falámos</FPP>
+		<SPP>falastes</SPP>
+		<TPP>falaram</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>falarei</FPS>
+		<SPS>falarás</SPS>
+		<TPS>falará</TPS>
+		<FPP>falaremos</FPP>
+		<SPP>falareis</SPP>
+		<TPP>falarão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>falava</FPS>
+		<SPS>falavas</SPS>
+		<TPS>falava</TPS>
+		<FPP>falávamos</FPP>
+		<SPP>faláveis</SPP>
+		<TPP>falavam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Present Subjunctive">Present_Subjunctive</mood>
+		<FPS>fale</FPS>
+		<SPS>fales</SPS>
+		<TPS>fale</TPS>
+		<FPP>falemos</FPP>
+		<SPP>faleis</SPP>
+		<TPP>falem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Subjunctive">Imperfect_Subjunctive</mood>
+		<FPS>falasse</FPS>
+		<SPS>falasses</SPS>
+		<TPS>falasse</TPS>
+		<FPP>falássemos</FPP>
+		<SPP>falásseis</SPP>
+		<TPP>falassem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Subjunctive">Future_Subjunctive</mood>
+		<FPS>falar</FPS>
+		<SPS>falares</SPS>
+		<TPS>falar</TPS>
+		<FPP>falarmos</FPP>
+		<SPP>falardes</SPP>
+		<TPP>falarem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Simple Conditional">Simple_Conditional</mood>
+		<FPS>falaria</FPS>
+		<SPS>falarias</SPS>
+		<TPS>falaria</TPS>
+		<FPP>falaríamos</FPP>
+		<SPP>falaríeis</SPP>
+		<TPP>falariam</TPP>
+	</conjugation>
+	<imperative>
+		<mood text="Imperative">Imperative</mood>
+		<SPS>fala</SPS>
+		<SPP>falai</SPP>
+  </imperative>
+</verb>

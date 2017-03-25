@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Spanish.xsl"?>
+
+<verb>
+	<infinitive>comer</infinitive>
+	<definition>to eat</definition>
+	<comments>regular "-er" verb</comments>
+	<participles>
+		<present>comiendo</present>
+		<past>comido</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>como</FPS>
+		<SPS>comes</SPS>
+		<TPS>come</TPS>
+		<FPP>comemos</FPP>
+		<SPP>coméis</SPP>
+		<TPP>comen</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>comí</FPS>
+		<SPS>comiste</SPS>
+		<TPS>comió</TPS>
+		<FPP>comimos</FPP>
+		<SPP>comisteis</SPP>
+		<TPP>comieron</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>comeré</FPS>
+		<SPS>comerás</SPS>
+		<TPS>comerá</TPS>
+		<FPP>comeremos</FPP>
+		<SPP>comeréis</SPP>
+		<TPP>comerán</TPP>
+	</conjugation>
+</verb>

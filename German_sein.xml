@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="German.xsl"?>
+
+<verb>
+	<infinitive>sein</infinitive>
+	<definition>to be</definition>
+	<comments>irregular verb</comments>
+	<participles>
+		<present>seiend</present>
+		<past>gewesen</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>bin</FPS>
+		<SPS>bist</SPS>
+		<TPS>ist</TPS>
+		<FPP>sind</FPP>
+		<SPP>seid</SPP>
+		<TPP>sind</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>war</FPS>
+		<SPS>warst</SPS>
+		<TPS>war</TPS>
+		<FPP>waren</FPP>
+		<SPP>wart</SPP>
+		<TPP>waren</TPP>
+	</conjugation>
+</verb>

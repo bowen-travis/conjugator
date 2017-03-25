@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="German.xsl"?>
+
+<verb>
+	<infinitive>spielen</infinitive>
+	<definition>to play</definition>
+	<comments>weak regular verb</comments>
+	<participles>
+		<present>spielend</present>
+		<past>gespielt</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>spiele</FPS>
+		<SPS>spielst</SPS>
+		<TPS>spielt</TPS>
+		<FPP>spielen</FPP>
+		<SPP>spielt</SPP>
+		<TPP>spielen</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>spielte</FPS>
+		<SPS>spieltest</SPS>
+		<TPS>spielte</TPS>
+		<FPP>spielten</FPP>
+		<SPP>spieltet</SPP>
+		<TPP>spielten</TPP>
+	</conjugation>
+</verb>

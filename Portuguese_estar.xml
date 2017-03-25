@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>estar</infinitive>
+	<definition>to be</definition>
+	<comments>irregular verb</comments>
+	<participles>
+		<present>estando</present>
+		<past>estado</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>estou</FPS>
+		<SPS>estás</SPS>
+		<TPS>está</TPS>
+		<FPP>estamos</FPP>
+		<SPP>estais</SPP>
+		<TPP>estão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>estive</FPS>
+		<SPS>estiveste</SPS>
+		<TPS>esteve</TPS>
+		<FPP>estivemos</FPP>
+		<SPP>estivestes</SPP>
+		<TPP>estiveram</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>estarei</FPS>
+		<SPS>estarás</SPS>
+		<TPS>estará</TPS>
+		<FPP>estaremos</FPP>
+		<SPP>estareis</SPP>
+		<TPP>estarão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>estava</FPS>
+		<SPS>estavas</SPS>
+		<TPS>estava</TPS>
+		<FPP>estávamos</FPP>
+		<SPP>estáveis</SPP>
+		<TPP>estavam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Present Subjunctive">Present_Subjunctive</mood>
+		<FPS>esteja</FPS>
+		<SPS>estejas</SPS>
+		<TPS>esteja</TPS>
+		<FPP>estejamos</FPP>
+		<SPP>estejais</SPP>
+		<TPP>estejam</TPP>
+	</conjugation>
+</verb>

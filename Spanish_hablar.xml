@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Spanish.xsl"?>
+
+<verb>
+	<infinitive>hablar</infinitive>
+	<definition>to speak</definition>
+	<comments>regular "-ar" verb</comments>
+	<participles>
+		<present>hablando</present>
+		<past>hablado</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>hablo</FPS>
+		<SPS>hablas</SPS>
+		<TPS>habla</TPS>
+		<FPP>hablamos</FPP>
+		<SPP>habláis</SPP>
+		<TPP>hablan</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>hablé</FPS>
+		<SPS>hablaste</SPS>
+		<TPS>habló</TPS>
+		<FPP>hablamos</FPP>
+		<SPP>hablasteis</SPP>
+		<TPP>hablaron</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>hablaré</FPS>
+		<SPS>hablarás</SPS>
+		<TPS>hablará</TPS>
+		<FPP>hablaremos</FPP>
+		<SPP>hablaréis</SPP>
+		<TPP>hablarán</TPP>
+	</conjugation>
+</verb>

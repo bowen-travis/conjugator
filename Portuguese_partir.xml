@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>partir</infinitive>
+	<definition>to leave</definition>
+	<comments>regular "-ir" verb</comments>
+	<participles>
+		<present>partindo</present>
+		<past>partido</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>parto</FPS>
+		<SPS>partes</SPS>
+		<TPS>parte</TPS>
+		<FPP>partimos</FPP>
+		<SPP>partis</SPP>
+		<TPP>partem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>parti</FPS>
+		<SPS>partiste</SPS>
+		<TPS>partiu</TPS>
+		<FPP>partimos</FPP>
+		<SPP>partistes</SPP>
+		<TPP>partiram</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>partirei</FPS>
+		<SPS>partirás</SPS>
+		<TPS>partirá</TPS>
+		<FPP>partiremos</FPP>
+		<SPP>partireis</SPP>
+		<TPP>partirão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>partia</FPS>
+		<SPS>partias</SPS>
+		<TPS>partia</TPS>
+		<FPP>partíamos</FPP>
+		<SPP>partíeis</SPP>
+		<TPP>partiam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Present Subjunctive">Present_Subjunctive</mood>
+		<FPS>parta</FPS>
+		<SPS>partas</SPS>
+		<TPS>parta</TPS>
+		<FPP>partamos</FPP>
+		<SPP>partais</SPP>
+		<TPP>partam</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Subjunctive">Imperfect_Subjunctive</mood>
+		<FPS>partisse</FPS>
+		<SPS>partisses</SPS>
+		<TPS>partisse</TPS>
+		<FPP>partíssemos</FPP>
+		<SPP>partísseis</SPP>
+		<TPP>partissem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Subjunctive">Future_Subjunctive</mood>
+		<FPS>partir</FPS>
+		<SPS>partires</SPS>
+		<TPS>partir</TPS>
+		<FPP>partirmos</FPP>
+		<SPP>partirdes</SPP>
+		<TPP>partirem</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Simple Conditional">Simple Conditional</mood>
+		<FPS>partiria</FPS>
+		<SPS>partirias</SPS>
+		<TPS>partiria</TPS>
+		<FPP>partiríamos</FPP>
+		<SPP>partiríeis</SPP>
+		<TPP>partiriam</TPP>
+	</conjugation>
+</verb>

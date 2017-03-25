@@ -1,0 +1,36 @@
+BODY 
+{
+background-color : #E7E6E6; 
+font-size : 12px;  
+font-family : "Times New Roman", Times, Serif;
+text-align : center;
+}
+
+#Content
+{
+/*margin-left : auto;*/
+/*margin-right : auto;*/
+margin : 0 auto;
+width : 720px;
+text-align : left;
+}
+
+#title {font-size : 400%; text-align : center;
+        font-weight : bold; 
+        margin-left : auto; 
+        margin-right : auto;
+        width : 720px; height : 88px;
+        background-color : #CCCCCC}
+
+#controls {font-size : 100%; text-align : center;
+        font-weight : bold; 
+        margin-left : auto; 
+        margin-right : auto;
+		    border-bottom-color: #CCCCCC;
+        width : 720px}
+
+#answers {font-size : 100%; text-align : center;
+        font-weight : bold; 
+        margin-left : auto; 
+        margin-right : auto;
+        width : 720px}

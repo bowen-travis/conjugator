@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Portuguese.xsl"?>
+
+<verb>
+	<infinitive>ser</infinitive>
+	<definition>to be</definition>
+	<comments>irregular verb</comments>
+	<participles>
+		<present>sendo</present>
+		<past>sido</past>
+	</participles>
+	<conjugation>
+		<mood text="Present Indicative">Present_Indicative</mood>
+		<FPS>sou</FPS>
+		<SPS>és</SPS>
+		<TPS>é</TPS>
+		<FPP>somos</FPP>
+		<SPP>sois</SPP>
+		<TPP>são</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Preterit Indicative">Preterit_Indicative</mood>
+		<FPS>fui</FPS>
+		<SPS>foste</SPS>
+		<TPS>foi</TPS>
+		<FPP>fomos</FPP>
+		<SPP>fostes</SPP>
+		<TPP>foram</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Future Indicative">Future_Indicative</mood>
+		<FPS>serei</FPS>
+		<SPS>serás</SPS>
+		<TPS>será</TPS>
+		<FPP>seremos</FPP>
+		<SPP>sereis</SPP>
+		<TPP>serão</TPP>
+	</conjugation>
+	<conjugation>
+		<mood text="Imperfect Indicative">Imperfect_Indicative</mood>
+		<FPS>era</FPS>
+		<SPS>eras</SPS>
+		<TPS>era</TPS>
+		<FPP>éramos</FPP>
+		<SPP>éreis</SPP>
+		<TPP>eram</TPP>
+	</conjugation>
+</verb>
