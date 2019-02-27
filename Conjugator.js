@@ -89,8 +89,9 @@ function load_verbs(lang, verb)
 
       temp_array = xmlHttp.responseText.split(',');
       temp_array.sort();
-		
-			for(i in temp_array)	
+
+
+			for(i in temp_array)
 			{ 
 				if ((lang + "_") == temp_array[i].substring(0, lang.length + 1))
 				{
@@ -119,13 +120,14 @@ function load_verbs(lang, verb)
       verb_list=vrb_selector.options;
       while(verb_list[index].text  != verb)
 			{
-				index++
+				index++;
+				if (typeof verb_list[index] == 'undefined') {index = 0; break;}
 			}
 			vrb_selector.selectedIndex = index;
 		}
 	}
 
-	var url = "LoadVerbs.php"
+	var url = "LoadVerbs.php";
 	xmlHttp.open("GET", url, true);
 	xmlHttp.send(null); 
  
@@ -191,6 +193,7 @@ function load_languages(lang)
       while(lang_list[index].text  != lang)
 			{
 				index++
+				if (typeof lang_list[index] == 'undefined') {index = 0; break;}
 			}
 			lang_selector.selectedIndex = index;
 		}

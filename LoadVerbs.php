@@ -1,7 +1,8 @@
-<?
+<?php
 
 //define the path as relative
-$path = "/home/broot/public_html/Conjugator";
+//$path = "/home/broot/public_html/Conjugator";
+$path = ".";
 
 //using the opendir function
 $dir_handle = @opendir($path) or die("Unable to open $path");

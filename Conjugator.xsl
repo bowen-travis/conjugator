@@ -21,8 +21,8 @@
 
      <TABLE id="controls">
         <TR>
-          <TD> Language: <select id="language_selector" onChange="select_language(this.value);"><option value="None"></option> </select></TD>
-	  <TD> Verb: <select disabled="true"> </select>&#x00a0; <input type="button" value="random" disabled="true"/></TD>
+          <TD> Language: <select id="language_selector" onChange="select_language(this.value);"><option value="None">Choose...</option></select></TD>
+	  <TD> Verb: <select disabled="true"> </select>&#x00a0; </TD>
 	  <TD> Definition: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="definition" /></xsl:attribute></input><br /><br/> 
 	   Comments: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="comments" /></xsl:attribute></input></TD>
         </TR>
