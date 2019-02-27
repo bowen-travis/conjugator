@@ -18,7 +18,7 @@
           </TD>
         </TR>
       </TABLE>
-
+<br/>
      <TABLE id="controls">
         <TR>
           <TD> Language: <select id="language_selector" onChange="select_language(this.value);"><option value="None">Choose...</option></select></TD>
@@ -26,7 +26,7 @@
 	  <TD> Definition: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="definition" /></xsl:attribute></input><br /><br/> 
 	   Comments: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="comments" /></xsl:attribute></input></TD>
         </TR>
-		<TR><TD colspan="3"><hr/></TD></TR> 
+		<TR><TD colspan="3"><br/><hr/></TD></TR>
      </TABLE>
 </div>
 

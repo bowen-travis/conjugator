@@ -123,6 +123,7 @@ function load_verbs(lang, verb)
 				index++;
 				if (typeof verb_list[index] == 'undefined') {index = 0; break;}
 			}
+			if(index != 0) {verb_list[0].text = ""}
 			vrb_selector.selectedIndex = index;
 		}
 	}
