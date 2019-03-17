@@ -2,37 +2,37 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
  <xsl:template match="conjugator">
-  <HTML>
-   <HEAD>
-    <TITLE>Conjugator</TITLE>
-    <SCRIPT type="text/javascript" src="Conjugator.js" />
-    <LINK rel="StyleSheet" href="ConjugatorStyle.css" type="text/css" /> 
-   </HEAD>
+  <html>
+   <head>
+    <title>Conjugator</title>
+    <script type="text/javascript" src="Conjugator.js" />
+    <link rel="StyleSheet" href="ConjugatorStyle.css" type="text/css" />
+   </head>
 
-   <BODY onload="load_languages('None');">
+   <body onload="load_languages('None');">
 	<div id="Content">	
-    <TABLE id="title">
-        <TR>
-          <TD>
+    <table id="title">
+        <tr>
+          <td>
             Conjugator
-          </TD>
-        </TR>
-      </TABLE>
+          </td>
+        </tr>
+      </table>
 <br/>
-     <TABLE id="controls">
-        <TR>
-          <TD> Language: <select id="language_selector" onChange="select_language(this.value);"><option value="None">Choose...</option></select></TD>
-	  <TD> Verb: <select disabled="true"> </select>&#x00a0; </TD>
-	  <TD> Definition: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="definition" /></xsl:attribute></input><br /><br/> 
-	   Comments: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="comments" /></xsl:attribute></input></TD>
-        </TR>
-		<TR><TD colspan="3"><br/><hr/></TD></TR>
-     </TABLE>
+     <table id="controls">
+        <tr>
+          <td> Language: <select id="language_selector" onChange="select_language(this.value);"><option value="None">Choose...</option></select></td>
+	  <td> Verb: <select disabled="true"> </select>&#x00a0; </td>
+	  <td> Definition: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="definition" /></xsl:attribute></input><br /><br/>
+	   Comments: <input type="text" disabled="true"><xsl:attribute name="value"><xsl:value-of select="comments" /></xsl:attribute></input></td>
+        </tr>
+		<tr><td colspan="3"><br/><hr/></td></tr>
+     </table>
 </div>
 
-   </BODY>
+   </body>
 	
-  </HTML>
+  </html>
  </xsl:template>
 
 </xsl:stylesheet>
